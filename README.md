@@ -16,8 +16,8 @@
 - 🤖 Quiero crear mi primer **bot de Discord** y mi primer **plugin de Minecraft**
 - 🌱 Mi objetivo: entender bien los fundamentos antes de saltar a frameworks
 - 💬 Pregúntame sobre: bots de Discord, Minecraft y cómo sobrevivir al primer año
-- 📫 Contacto: **tu_correo@ejemplo.com**
-- 🏠 Discord: **tu_usuario_de_discord**
+- 📫 Contacto: **hugatodmc@gmail.com**
+- 🏠 Discord: **hugatodmc**
 
 ## 🛠️ Tecnologías
 
