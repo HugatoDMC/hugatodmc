@@ -2,10 +2,6 @@
 
 ### Systems Engineering Student & Developer
 
-<!-- --- TROFEOS (Se generan solos, recordá cambiar TU_USUARIO_DE_GITHUB) --- -->
-🧩 **My GitHub Trophies:**
-[![github profile trophy](https://vercel.app)](https://github.com)
-
 ---
 
 - 🔭 **I’m currently working on:** Building strong foundations in logic, algorithms, and systems architecture.
@@ -15,9 +11,9 @@
 ---
 
 ## 📬 ¡Contactá conmigo!
-*Hacé clic en cualquiera de los botones para redirigirte:*
+*Hacé clic en el botón para redirigirte:*
 
-[![Discord](https://shields.io)](hugatodmc)
+[![Discord](https://shields.io)](TU_LINK_DE_INVITACION_DE_DISCORD_AQUÍ)
 
 ---
 
@@ -37,8 +33,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <!-- Estadísticas Generales (Recordá cambiar TU_USUARIO_DE_GITHUB) -->
-  <img src="https://workers.dev" alt="GitHub Stats" width="48%" />&nbsp;
-  <!-- Lenguajes más usados (Recordá cambiar TU_USUARIO_DE_GITHUB) -->
-  <img src="https://workers.dev" alt="Top Langs" width="48%" />
+  <!-- Estadísticas Generales -->
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />&nbsp;
+  <!-- Lenguajes más usados -->
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
 </p>
