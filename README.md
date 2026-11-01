@@ -30,10 +30,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hugatodmc&theme=dark&show_icons=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugatodmc&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false)
 
 </div>
 
