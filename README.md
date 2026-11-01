@@ -2,7 +2,7 @@
 
 ![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-# Hola 👋, soy TU_NOMBRE
+# Hola 👋, soy Hugato
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Aprendiendo+JavaScript%2C+Java+y+Python;Me+gusta+crear+bots+y+plugins;Un+commit+a+la+vez+%F0%9F%9A%80)](https://git.io/typing-svg)
 
