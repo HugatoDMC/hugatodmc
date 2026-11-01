@@ -13,7 +13,7 @@
 ## 📬 ¡Contactá conmigo!
 *Hacé clic en el botón para redirigirte:*
 
-[![Discord](https://shields.io)](TU_LINK_DE_INVITACION_DE_DISCORD_AQUÍ)
+[![Discord](https://shields.io)]hugatodmc)
 
 ---
 
